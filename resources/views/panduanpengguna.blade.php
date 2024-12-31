@@ -71,7 +71,7 @@
                 Pendahuluan
             </div>
             <div class="card-body">
-                <p>Aplikasi <strong>Patuh-Bayar</strong> mempermudah pengelolaan data warga dan pembayaran secara online. Akses pengguna terbagi menjadi dua: <strong>bendahara</strong> dan <strong>ketua RW</strong>. Berikut panduan penggunaannya.</p>
+                <p>Aplikasi <strong>Patuh-Bayar</strong> mempermudah pengelolaan data warga dan pembayaran secara online. Akses pengguna terbagi menjadi dua yaitu <strong>bendahara</strong> dan <strong>ketua RW</strong>. Berikut panduan penggunaannya.</p>
             </div>
         </div>
 
@@ -85,7 +85,7 @@
                     <li class="list-group-item">Pengelolaan data warga</li>
                     <li class="list-group-item">Pengelolaan data pembayaran</li>
                     <li class="list-group-item">Laporan keuangan</li>
-                    <li class="list-group-item">Keamanan akses berbasis peran</li>
+                    <li class="list-group-item">Pengingat pembayaran jatuh tempo via email</li>
                 </ul>
             </div>
         </div>
@@ -136,7 +136,7 @@
                     <li><strong>Login :</strong> Masukkan email dan kata sandi Anda.</li>
                     <li><strong>Melihat Data Warga :</strong> Akses menu "Data Warga" untuk memantau data warga.</li>
                     <li><strong>Melihat Pembayaran :</strong> Pantau status pembayaran melalui menu "Data Pembayaran".</li>
-                    <li><strong>Laporan Keuangan :</strong> Lihat laporan dari menu "Laporan Keuangan".</li>
+                    <li><strong>Laporan Keuangan :</strong> Unduh laporan dari menu "Laporan Keuangan".</li>
                 </ol>
             </div>
         </div>
