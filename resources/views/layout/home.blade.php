@@ -146,7 +146,7 @@
         <div class="input-group">
             <select name="tahun" class="form-control me-1" onchange="this.form.submit()">
                 <option value="">--Pilih Tahun--</option>
-                @foreach(range(date('Y'), 2025) as $year)
+                @foreach(range(date('Y'), 2024) as $year)
                     <option value="{{ $year }}" @if(request('tahun') == $year) selected @endif>{{ $year }}</option>
                 @endforeach
             </select>
