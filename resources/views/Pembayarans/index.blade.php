@@ -74,7 +74,8 @@
             </div>
             @endif
 
-            <table class="table table-striped">
+            <div class="table-responsive">
+            <table class="table table-striped table-bordered table-sm">
                 <thead class="table-success">
                     <tr align="center">
                         <th scope="col">No.</th>
@@ -130,8 +131,8 @@
                         </tr>
                     @endforelse
                 </tbody>
-
             </table>
+            </div>
 
             <div class="d-flex justify-content-center">
                 {{ $Pembayarans->withQueryString()->links('pagination::bootstrap-5') }}
