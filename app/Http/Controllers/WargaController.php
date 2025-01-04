@@ -232,12 +232,16 @@ class WargaController extends Controller
     public function destroy(string $id_warga): RedirectResponse
     {
         // Ambil data warga yang akan dihapus
-        $post = Warga::findOrFail($id_warga);
+        $warga = Warga::findOrFail($id_warga);
+
+        // Hapus semua pembayaran yang terkait
+        $warga->pembayarans()->delete();
 
         // Hapus data warga
-        $post->delete();
+        $warga->delete();
 
         // Redirect setelah data berhasil dihapus
         return redirect()->route('Wargas.index')->with(['success' => 'Data berhasil dihapus!']);
     }
+
 }

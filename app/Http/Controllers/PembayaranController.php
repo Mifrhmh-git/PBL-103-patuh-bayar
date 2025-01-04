@@ -322,4 +322,17 @@ class PembayaranController extends Controller
         // Redirect dengan pesan sukses
         return redirect()->route('Pembayarans.index')->with(['success' => 'Data Berhasil Dihapus!']);
     }
+
+    protected static function boot()
+    {
+        parent::boot();
+
+        static::deleting(function ($pembayaran) {
+            // Hapus gambar pembayaran
+            if ($pembayaran->image) {
+                Storage::delete('public/Pembayarans/' . $pembayaran->image);
+            }
+        });
+    }
+
 }
