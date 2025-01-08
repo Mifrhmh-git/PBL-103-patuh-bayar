@@ -25,7 +25,6 @@
     - [Fungsi Utama](#fungsi-utama)
   - [Lisensi](#lisensi)
     - [Ketentuan Utama Lisensi PBL-103](#ketentuan-utama-lisensi-pbl-103)
-  - [Kontribusi](#kontribusi)
   - [Kontak](#kontak)
 
 ---
@@ -115,13 +114,13 @@ Untuk detail lengkap, silakan baca file LICENSE.
 
 ---
 
-## Kontribusi
+<!-- ## Kontribusi
 Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langkah berikut :
 1. Fork repositori ini.
 2. Buat branch fitur baru (`git checkout -b fitur-baru`).
 3. Commit perubahan Anda (`git commit -m 'Tambah fitur baru'`).
 4. Push ke branch tersebut (`git push origin fitur-baru`).
-5. Buat Pull Request.
+5. Buat Pull Request. -->
 
 ---
 
