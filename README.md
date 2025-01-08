@@ -122,7 +122,7 @@ Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langk
 4. Push ke branch tersebut (`git push origin fitur-baru`).
 5. Buat Pull Request. -->
 
----
+<!-- --- -->
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi kami :
