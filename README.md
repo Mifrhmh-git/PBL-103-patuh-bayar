@@ -3,19 +3,19 @@
 ## Deskripsi
 **Patuh Bayar** adalah aplikasi berbasis web yang dirancang untuk memudahkan pengelolaan tagihan iuran di lingkungan perumahan. Aplikasi ini membantu memperlancar administrasi pembayaran, memastikan transparansi, serta meningkatkan efisiensi pengelolaan keuangan bulanan warga.
 
-### Fitur Utama:
-- **Pengelolaan Data Warga**: Tambah, edit, dan hapus data warga.
-- **Pengelolaan Iuran Warga**: Kelola tagihan bulanan warga.
-- **Riwayat Pembayaran**: Lihat riwayat pembayaran warga secara rinci.
-- **Pengingat Pembayaran**: Kirimkan pengingat pembayaran melalui email.
-- **Laporan Keuangan**: Hasilkan laporan dalam format PDF dan Excel.
+### Fitur Utama :
+- **Pengelolaan Data Warga** : Tambah, edit, dan hapus data warga.
+- **Pengelolaan Iuran Warga** : Kelola tagihan bulanan warga.
+- **Riwayat Pembayaran** : Lihat riwayat pembayaran warga secara rinci.
+- **Pengingat Pembayaran** : Kirimkan pengingat pembayaran melalui email.
+- **Laporan Keuangan** : Hasilkan laporan dalam format PDF dan Excel.
 
 ---
 
 ## Daftar Isi
 - [Patuh Bayar](#patuh-bayar)
   - [Deskripsi](#deskripsi)
-    - [Fitur Utama:](#fitur-utama)
+    - [Fitur Utama :](#fitur-utama-)
   - [Daftar Isi](#daftar-isi)
   - [Cara Instalasi](#cara-instalasi)
     - [Persyaratan Sistem](#persyaratan-sistem)
@@ -24,6 +24,7 @@
     - [Login](#login)
     - [Fungsi Utama](#fungsi-utama)
   - [Lisensi](#lisensi)
+    - [Ketentuan Utama Lisensi PBL-103](#ketentuan-utama-lisensi-pbl-103)
   - [Kontribusi](#kontribusi)
   - [Kontak](#kontak)
 
@@ -49,9 +50,9 @@ Pastikan sistem Anda memenuhi persyaratan berikut:
    - Jalankan installer dan arahkan ke path `php.exe` dari XAMPP (contoh: `c:\xampp\php\php.exe`).
 
 3. **Clone Repositori**
-   Jalankan perintah berikut di terminal atau Git Bash:
+   Jalankan perintah berikut di terminal atau Git Bash :
    ```bash
-   git clone https ://github.com/Mifrhmh-git/PBL-103-patuh-bayar.git
+   git clone https://github.com/Mifrhmh-git/PBL-103-patuh-bayar.git
    cd PBL-103-patuh-bayar
    ```
 
@@ -76,7 +77,7 @@ Pastikan sistem Anda memenuhi persyaratan berikut:
    ```bash
    php artisan serve
    ```
-   Akses aplikasi melalui: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+   Akses aplikasi melalui : [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -102,12 +103,20 @@ Gunakan akun berikut untuk masuk ke aplikasi:
 ---
 
 ## Lisensi
-Proyek ini menggunakan lisensi [MIT](LICENSE) - silakan lihat file LICENSE untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah **PBL-103 License**. 
+
+### Ketentuan Utama Lisensi PBL-103
+1. Proyek ini dapat digunakan oleh komunitas perumahan, RT, dan RW untuk pengelolaan iuran.
+2. Pengguna diperbolehkan untuk memodifikasi dan mendistribusikan proyek dengan syarat mencantumkan atribusi kepada pengembang asli.
+3. Penggunaan proyek untuk tujuan komersial memerlukan izin tertulis dari pengembang.
+4. Proyek ini diberikan "apa adanya" tanpa jaminan apapun. Pengembang tidak bertanggung jawab atas kerusakan yang mungkin terjadi akibat penggunaan proyek ini.
+
+Untuk detail lengkap, silakan baca file LICENSE.
 
 ---
 
 ## Kontribusi
-Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langkah berikut:
+Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langkah berikut :
 1. Fork repositori ini.
 2. Buat branch fitur baru (`git checkout -b fitur-baru`).
 3. Commit perubahan Anda (`git commit -m 'Tambah fitur baru'`).
@@ -117,7 +126,6 @@ Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langk
 ---
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi kami:
-- **Email** : support@patuhbayar.com
+Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi kami :
 - **GitHub** : [https://github.com/Mifrhmh-git/PBL-103-patuh-bayar](https://github.com/Mifrhmh-git/PBL-103-patuh-bayar)
 
