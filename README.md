@@ -33,25 +33,25 @@
 
 ### Persyaratan Sistem
 Pastikan sistem Anda memenuhi persyaratan berikut:
-- **Server**: Apache (XAMPP)
-- **PHP**: Versi 8.0 atau lebih baru
-- **Database**: MySQL
-- **Composer**: Dependency manager untuk PHP
+- **Server** : Apache (XAMPP)
+- **PHP** : Versi 8.0 atau lebih baru
+- **Database** : MySQL
+- **Composer** : Dependency manager untuk PHP
 
 ### Langkah Instalasi
 
 1. **Instalasi XAMPP**
-   - Unduh XAMPP dari: [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
+   - Unduh XAMPP dari : [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
    - Ikuti langkah instalasi dan pastikan Apache serta MySQL berjalan di Control Panel XAMPP.
 
 2. **Instalasi Composer**
-   - Unduh Composer dari: [https://getcomposer.org/download/](https://getcomposer.org/download/)
+   - Unduh Composer dari : [https://getcomposer.org/download/](https://getcomposer.org/download/)
    - Jalankan installer dan arahkan ke path `php.exe` dari XAMPP (contoh: `c:\xampp\php\php.exe`).
 
 3. **Clone Repositori**
    Jalankan perintah berikut di terminal atau Git Bash:
    ```bash
-   git clone https://github.com/Mifrhmh-git/PBL-103-patuh-bayar.git
+   git clone https ://github.com/Mifrhmh-git/PBL-103-patuh-bayar.git
    cd PBL-103-patuh-bayar
    ```
 
@@ -85,19 +85,19 @@ Pastikan sistem Anda memenuhi persyaratan berikut:
 ### Login
 Gunakan akun berikut untuk masuk ke aplikasi:
 - **Bendahara RT**  
-  - Email: `bendahara-rt@gmail.com`  
-  - Password: `bendahara-rt`
+  - Email : `bendahara-rt@gmail.com`  
+  - Password : `bendahara-rt`
 
 - **Ketua RW**  
-  - Email: `rw@gmail.com`  
-  - Password: `rw-1`
+  - Email : `rw@gmail.com`  
+  - Password : `rw-1`
 
 ### Fungsi Utama
-1. **Pengelolaan Data Warga**: Tambah, edit, dan hapus data warga.
-2. **Pengelolaan Iuran Warga**: Kelola tagihan bulanan warga.
-3. **Riwayat Pembayaran**: Lihat riwayat pembayaran warga secara rinci.
-4. **Pengingat Pembayaran**: Kirimkan pengingat pembayaran melalui email.
-5. **Laporan Keuangan**: Hasilkan laporan dalam format PDF dan Excel.
+1. **Pengelolaan Data Warga** : Tambah, edit, dan hapus data warga.
+2. **Pengelolaan Iuran Warga** : Kelola tagihan bulanan warga.
+3. **Riwayat Pembayaran** : Lihat riwayat pembayaran warga secara rinci.
+4. **Pengingat Pembayaran** : Kirimkan pengingat pembayaran melalui email.
+5. **Laporan Keuangan** : Hasilkan laporan dalam format PDF dan Excel.
 
 ---
 
@@ -118,6 +118,6 @@ Jika Anda ingin berkontribusi dalam pengembangan proyek ini, silakan ikuti langk
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi kami:
-- **Email**: support@patuhbayar.com
-- **GitHub**: [https://github.com/Mifrhmh-git/PBL-103-patuh-bayar](https://github.com/Mifrhmh-git/PBL-103-patuh-bayar)
+- **Email** : support@patuhbayar.com
+- **GitHub** : [https://github.com/Mifrhmh-git/PBL-103-patuh-bayar](https://github.com/Mifrhmh-git/PBL-103-patuh-bayar)
 
