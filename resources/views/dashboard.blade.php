@@ -270,8 +270,8 @@
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
                   <h5 class="mb-0">Dhominica Riskana Laurensa</h5>
-                  <h6 class="text-info">Front-End</h6>
-                  <p class="mb-0">Mengubah desain UI menjadi kode responsif menggunakan HTML, CSS, dan JavaScript, memastikan aksesibilitas, serta meningkatkan pengalaman pengguna dengan animasi dan transisi.</p>
+                  <h6 class="text-info">Lead Developer</h6>
+                  <p class="mb-0">Mengembangkan dan mengelola semua aspek aplikasi web mulai dari desain antarmuka pengguna, interaksi pengguna dengan aplikasi, pemrosesan data, dan mengatur hosting yang sesuai dengan kebutuhan.</p>
                 </div>
               </div>
             </div>
@@ -288,8 +288,8 @@
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
                   <h5 class="mb-0">Vioni Az Zahra</h5>
-                  <h6 class="text-info">Front-End</h6>
-                  <p class="mb-0">Mengubah desain UI menjadi kode responsif menggunakan HTML, CSS, dan JavaScript, memastikan aksesibilitas, serta meningkatkan pengalaman pengguna dengan animasi dan transisi.</p>
+                  <h6 class="text-info">Business Analyst</h6>
+                  <p class="mb-0">Bertanggung jawab untuk menganalisis permintaan klien dan menentukan persyaratan fungsional yang akan diimplementasikan dalam proyek.</p>
                 </div>
               </div>
             </div>
@@ -314,7 +314,7 @@
                 <div class="card-body">
                   <h5 class="mb-0">Muhammad Syifa Abdurrasyid</h5>
                   <h6 class="text-info">UI-UX Design</h6>
-                  <p>Rancang antarmuka pengguna yang intuitif dan menarik dengan fokus pada pengalaman pengguna, buat prototipe untuk menguji ide, dan lakukan pengujian kegunaan.</p>
+                  <p>Bertanggung jawab untuk membuat desain antarmuka situs web yang menarik, informatif, dan konsisten dengan gaya keseluruhan produk.</p>
                 </div>
               </div>
             </div>
@@ -331,8 +331,8 @@
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
                   <h5 class="mb-0">Hanif Wicaksono Suryohusodo</h5>
-                  <h6 class="text-info">UI-UX Design</h6>
-                  <p>Rancang antarmuka pengguna yang intuitif dan menarik dengan fokus pada pengalaman pengguna, buat prototipe untuk menguji ide, dan lakukan pengujian kegunaan.</p>
+                  <h6 class="text-info">Tester</h6>
+                  <p>Bertanggung jawab atas kualitas pengujian, mendeteksi bug, dan memastikan fungsionalitas, tampilan, dan kompatibilitas situs memenuhi standar.</p>
                 </div>
               </div>
             </div>
@@ -357,7 +357,7 @@
                 <div class="card-body">
                   <h5 class="mb-0">Miftahur Rahmah</h5>
                   <h6 class="text-info">Back-End</h6>
-                  <p>Rancang dan kelola database, bangun API untuk komunikasi front-end dan back-end, integrasikan layanan eksternal, dan terapkan praktik keamanan.</p>
+                  <p>Bertanggung jawab untuk mengembangkan dan mengatur aliran data, mengelola basis data, dan memastikan interaksi antara server dan klien berjalan dengan lancar.</p>
                 </div>
               </div>
             </div>
@@ -376,8 +376,8 @@
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
                   <h5 class="mb-0">Muhammad Farhan</h5>
-                  <h6 class="text-info">Back-End</h6>
-                  <p>Rancang dan kelola database, bangun API untuk komunikasi front-end dan back-end, integrasikan layanan eksternal, dan terapkan praktik keamanan.</p>
+                  <h6 class="text-info">Front-End</h6>
+                  <p>Bertanggung jawab untuk membangun bagian depan situs web atau aplikasi yang dapat dilihat dan berinteraksi dengan pengguna di browser mereka.</p>
                 </div>
               </div>
             </div>
